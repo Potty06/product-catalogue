@@ -1,2 +1,2 @@
-# product-catalogue-
+# product-catalogue
 CRUD Application for products
